@@ -1,0 +1,11 @@
+html {
+  font-family: Karla, sans-serif;
+}
+
+.logo {
+  width: 2rem;
+}
+
+.nav-list a {
+  text-decoration: none;
+}
