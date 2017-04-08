@@ -27,6 +27,11 @@ h1 {
   color: white;
 }
 
+.subcaption {
+  text-align: center;
+  color: white;
+}
+
 .card {
   background-color: white;
   border-color: blue;
@@ -42,7 +47,18 @@ h1 {
   border-color: transparent;
 }
 
+.btn:hover {
+  background-color: lightblue;
+  border-color: transparent;
+}
+
 .reviews {
   color: blue;
 
+}
+
+li a:hover {
+  background-color: blue;
+  border-radius: .25rem;
+  padding: .25rem;
 }
