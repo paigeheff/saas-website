@@ -2,10 +2,47 @@ html {
   font-family: Karla, sans-serif;
 }
 
+body {
+  background-color: white;
+  margin: 0;
+}
+
 .logo {
   width: 2rem;
+  padding: .25rem;
 }
 
 .nav-list a {
   text-decoration: none;
+  color: white;
+
+}
+
+header {
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.card {
+  background-color: white;
+  border-color: blue;
+  border-style: solid;
+  border-radius: 1px;
+  padding: .75rem;
+}
+
+.btn {
+  background-color: blue;
+  border-radius: 9px;
+  color: white;
+  border-color: transparent;
+}
+
+.reviews {
+  color: blue;
+
 }
