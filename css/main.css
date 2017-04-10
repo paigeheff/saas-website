@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-color: white;
+  background-color: lightpink;
   margin: 0;
 }
 
@@ -59,8 +59,4 @@ li a:hover {
   background-color: blue;
   border-radius: .25rem;
   padding: .25rem;
-}
-
-nav {
-  text-align: right;
 }
